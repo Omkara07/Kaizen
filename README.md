@@ -46,7 +46,7 @@ The project is split into two parts:
 1. **Clone the Repository**:
   ```bash
    git clone https://github.com/Omkara07/Kaizen.git
-   cd Kaizen/frontend
+   cd frontend
 ```
 
 Install Dependencies:
