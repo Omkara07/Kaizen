@@ -1,4 +1,4 @@
-import { Phone, Mail, ChevronRight, Shield, Award, Clock } from "lucide-react"
+import { ChevronRight, Shield, Award, Clock } from "lucide-react"
 
 export function FreeReviewCard() {
     return (
