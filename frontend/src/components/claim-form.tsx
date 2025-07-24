@@ -31,7 +31,7 @@ export function ClaimForm() {
         setSuccess(null);
 
         try {
-            const response = await fetch('http://localhost:5000/api/form', {
+            const response = await fetch('https://kaizen-kg1c.onrender.com/api/form', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',
